@@ -25,8 +25,7 @@
                                 <rect key="frame" x="164" y="333" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <action selector="getNameText:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UF8-Zi-6aH"/>
-                                    <segue destination="Hhg-PS-D8r" kind="show" id="o2N-mk-UGT"/>
+                                    <segue destination="Hhg-PS-D8r" kind="show" id="gJr-eA-rew"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="名前を入力してください" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zej-KF-CPM">
